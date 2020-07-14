@@ -4,9 +4,9 @@
 /node_modules
 /npm-debug.log*
 /yarn-error.log
-/yarn.lock
-yarn.lock
-package-lock.json
+# /yarn.lock
+# yarn.lock
+# package-lock.json
 # /yarn.lock
 # /package-lock.json
 
@@ -21,23 +21,6 @@ package-lock.json
 .git
 # .npmrc
 # .yarnrc
-
-# umi
-.umi
-.umi-production
-
-# 一些临时文件
-**/.tmp
-**/tmp
-**/.umi
-
-# Electron 构建文件
-release
-src/main/bundle.js
-src/main/bundle.js.map
-src/render/_env
-web
-**/test
 
 winCodeSign-2.6.0
 wine-4.0.1-mac
