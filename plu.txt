@@ -1,0 +1,2 @@
+ID	ItemCode	DepartmentID	Name1	Price	UnitID	BarcodeType1	BarcodeType2	ProducedDate
+64050	64050	24	Ë®¾§Æ»¹û	11.9	7	7	7	2020/7/14 09:46:39

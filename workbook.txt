@@ -1,0 +1,104 @@
+sheetJsonData = {
+  '!ref': 'A1:I2',
+  A1: { t: 's', v: 'ID|生鲜码', r: '<t>ID|生鲜码</t>', h: 'ID|生鲜码', w: 'ID|生鲜码' },
+  B1: {
+    t: 's',
+    v: 'ItemCode|货号',
+    r: '<t>ItemCode|货号</t>',
+    h: 'ItemCode|货号',
+    w: 'ItemCode|货号'
+  },
+  C1: {
+    t: 's',
+    v: 'DepartmentID|条码起始码',
+    r: '<t>DepartmentID|条码起始码</t>',
+    h: 'DepartmentID|条码起始码',
+    w: 'DepartmentID|条码起始码'
+  },
+  D1: {
+    t: 's',
+    v: 'Name1|名称1',
+    r: '<t>Name1|名称1</t>',
+    h: 'Name1|名称1',
+    w: 'Name1|名称1'
+  },
+  E1: {
+    t: 's',
+    v: 'Price|单价',
+    r: '<t>Price|单价</t>',
+    h: 'Price|单价',
+    w: 'Price|单价'
+  },
+  F1: {
+    t: 's',
+    v: 'UnitID|单位',
+    r: '<t>UnitID|单位</t>',
+    h: 'UnitID|单位',
+    w: 'UnitID|单位'
+  },
+  G1: {
+    t: 's',
+    v: 'BarcodeType1|条码类型1',
+    r: '<t>BarcodeType1|条码类型1</t>',
+    h: 'BarcodeType1|条码类型1',
+    w: 'BarcodeType1|条码类型1'
+  },
+  H1: {
+    t: 's',
+    v: 'BarcodeType2|条码类型2',
+    r: '<t>BarcodeType2|条码类型2</t>',
+    h: 'BarcodeType2|条码类型2',
+    w: 'BarcodeType2|条码类型2'
+  },
+  I1: {
+    t: 's',
+    v: 'ProducedDate|生产日期',
+    r: '<t>ProducedDate|生产日期</t>',
+    h: 'ProducedDate|生产日期',
+    w: 'ProducedDate|生产日期'
+  },
+  A2: { t: 'n', v: 64050, w: '64050' },
+  B2: { t: 'n', v: 64050, w: '64050' },
+  C2: { t: 'n', v: 24, w: '24' },
+  D2: { t: 's', v: '水晶苹果', r: '<t>水晶苹果</t>', h: '水晶苹果', w: '水晶苹果' },
+  E2: { t: 'n', v: 11.9, w: '11.9' },
+  F2: { t: 'n', v: 7, w: '7' },
+  G2: { t: 'n', v: 7, w: '7' },
+  H2: { t: 'n', v: 7, w: '7' },
+  I2: { t: 'n', v: 44026.3015509259, w: '7/14/20 7:14' },
+  '!margins': {
+    left: 0.75,
+    right: 0.75,
+    top: 1,
+    bottom: 1,
+    header: 0.511805555555556,
+    footer: 0.511805555555556
+  }
+}
+
+------------------------------------------------------
+
+sheetJsonData2 = {
+  '1': {
+    A: 'ID|生鲜码',
+    B: 'ItemCode|货号',
+    C: 'DepartmentID|条码起始码',
+    D: 'Name1|名称1',
+    E: 'Price|单价',
+    F: 'UnitID|单位',
+    G: 'BarcodeType1|条码类型1',
+    H: 'BarcodeType2|条码类型2',
+    I: 'ProducedDate|生产日期'
+  },
+  '2': {
+    A: 64050,
+    B: 64050,
+    C: 24,
+    D: '水晶苹果',
+    E: 11.9,
+    F: 7,
+    G: 7,
+    H: 7,
+    I: 44026.3015509259
+  }
+}

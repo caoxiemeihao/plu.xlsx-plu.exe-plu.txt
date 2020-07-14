@@ -1,0 +1,17 @@
+{
+  "name": "nexe-generate-plu",
+  "version": "1.0.0",
+  "main": "plu.js",
+  "license": "MIT",
+  "scripts": {
+    "-- 生成.exe命令 --": "nexe 即可，会自动匹配 package.json/main；不要用 --buidl 选项",
+    "build": "nexe"
+  },
+  "devDependencies": {
+    "nexe": "^3.3.7"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.6.2",
+    "xlsx": "^0.16.3"
+  }
+}
